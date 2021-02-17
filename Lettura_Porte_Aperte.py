@@ -2,7 +2,7 @@
 import subprocess
 import os
 nome_file = "nmap-scan-herno-lan.txt"
-ip = "192.1.0."
+ip = "192.1."
 l=""
 m=""
 output_file="Open_ports/open_port.txt"
